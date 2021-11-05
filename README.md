@@ -1,6 +1,9 @@
-## Hola, I'm Basha👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-- 🔭 I’m an Flutter Developer.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Basha👋</h1>
+<h3 align="center">I’m a Flutter Developer from India.</h3>
+
+ 
 - 🌱 I’m currently learning more about Node.js.
 - 👯 I’m looking to collaborate on [Github](https://github.com/bashadev21).
 - 🤔 I’m looking for help with Getx documentation.
