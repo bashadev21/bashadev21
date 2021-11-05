@@ -1,5 +1,14 @@
 ## Hola, I'm Basha👋
 
+- 🔭 I’m an Flutter Developer.
+- 🌱 I’m currently learning more about Node.js.
+- 👯 I’m looking to collaborate on [Github](https://github.com/bashadev21).
+- 🤔 I’m looking for help with Getx documentation.
+- 💬 Ask me about Flutter or any tech-related stuff.
+- 📫 How to reach me: basha28062@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+
 <!--
 **bashadev21/bashadev21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
