@@ -10,7 +10,7 @@
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: basha28062@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+
 
 
 **Languages and Tools:**  
