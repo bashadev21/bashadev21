@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Basha</h1>
-<h3 align="center">I’m a Flutter Developer from India.</h3>
+<h3 align="center">I’m a Mobile app developer from India.</h3>
 
  
 - 🌱 I’m currently learning more about Node.js.
