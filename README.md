@@ -4,7 +4,7 @@
 <h3 align="center">I’m a Mobile app developer from India.</h3>
 
  
-- 🌱 I’m currently learning more about Node.js.
+- 🌱 I’m currently learning more about Kotlin.
 - 👯 I’m looking to collaborate on [Github](https://github.com/bashadev21).
 - 🤔 I’m looking for help with Getx documentation.
 - 💬 Ask me about Flutter or any tech-related stuff.
